@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FilterWindow" />
+        <module name="NetworkConnection" />
+        <module name="branding" />
+        <module name="Util" />
+        <module name="Data" />
+        <module name="SelectionCoordinator" />
+        <module name="Difference" />
+        <module name="Coordinator" />
+        <module name="IdealGraphVisualizer-app" />
+        <module name="ControlFlow" />
+        <module name="View" />
+        <module name="HierarchicalLayout" />
+        <module name="ServerCompiler" />
+        <module name="Graph" />
+        <module name="Layout" />
+        <module name="Filter" />
+        <module name="Bytecodes" />
+        <module name="LogCompilation" />
+        <module name="Settings" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="branding" target="1.8" />
+      <module name="Bytecodes" target="1.8" />
+      <module name="ControlFlow" target="1.8" />
+      <module name="Coordinator" target="1.8" />
+      <module name="Data" target="1.8" />
+      <module name="Difference" target="1.8" />
+      <module name="Filter" target="1.8" />
+      <module name="FilterWindow" target="1.8" />
+      <module name="Graph" target="1.8" />
+      <module name="HierarchicalLayout" target="1.8" />
+      <module name="IdealGraphVisualizer-app" target="1.8" />
+      <module name="IdealGraphVisualizer-parent" target="11" />
+      <module name="Layout" target="1.8" />
+      <module name="LogCompilation" target="1.8" />
+      <module name="NetworkConnection" target="1.8" />
+      <module name="SelectionCoordinator" target="1.8" />
+      <module name="ServerCompiler" target="1.8" />
+      <module name="Settings" target="1.8" />
+      <module name="Util" target="1.8" />
+      <module name="View" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Bytecodes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Bytecodes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/ControlFlow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/ControlFlow/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Coordinator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Coordinator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Difference/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Difference/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/FilterWindow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/FilterWindow/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Graph/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Graph/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/HierarchicalLayout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/HierarchicalLayout/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Layout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Layout/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/NetworkConnection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/NetworkConnection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/SelectionCoordinator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/SelectionCoordinator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/ServerCompiler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/ServerCompiler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Settings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Settings/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/Util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/View/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/View/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IdealGraphVisualizer/branding/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
